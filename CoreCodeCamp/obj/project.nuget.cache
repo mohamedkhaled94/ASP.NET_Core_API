@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NdhPrIY8fTxN4YR1ghxFyg+uYUK30mmaV4CjxpI46H998uRQVEeq+IgIDxoxBzH9MjDCt86zvA6Mc3w/AF55Fg==",
+  "dgSpecHash": "PgKoLx6fVNtK91+tNOnDrrUVwKBlu7N93uWuOK9ml7sFE5fIXWDMjzMfYkAvuzzIB+t03qvqtZJqV2UCyeoa4w==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mohamed Khalled\\Documents\\GitHub\\CoreCodeCamp\\CoreCodeCamp.csproj",
+  "projectFilePath": "C:\\Users\\Mohamed Khalled\\Documents\\GitHub\\ASP.NET_Core_API\\CoreCodeCamp\\CoreCodeCamp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mohamed Khalled\\.nuget\\packages\\automapper\\8.0.0\\automapper.8.0.0.nupkg.sha512",
     "C:\\Users\\Mohamed Khalled\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.0.0\\automapper.extensions.microsoft.dependencyinjection.6.0.0.nupkg.sha512",

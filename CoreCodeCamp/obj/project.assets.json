@@ -5821,11 +5821,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mohamed Khalled\\Documents\\GitHub\\CoreCodeCamp\\CoreCodeCamp.csproj",
+      "projectUniqueName": "C:\\Users\\Mohamed Khalled\\Documents\\GitHub\\ASP.NET_Core_API\\CoreCodeCamp\\CoreCodeCamp.csproj",
       "projectName": "CoreCodeCamp",
-      "projectPath": "C:\\Users\\Mohamed Khalled\\Documents\\GitHub\\CoreCodeCamp\\CoreCodeCamp.csproj",
+      "projectPath": "C:\\Users\\Mohamed Khalled\\Documents\\GitHub\\ASP.NET_Core_API\\CoreCodeCamp\\CoreCodeCamp.csproj",
       "packagesPath": "C:\\Users\\Mohamed Khalled\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mohamed Khalled\\Documents\\GitHub\\CoreCodeCamp\\obj\\",
+      "outputPath": "C:\\Users\\Mohamed Khalled\\Documents\\GitHub\\ASP.NET_Core_API\\CoreCodeCamp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
